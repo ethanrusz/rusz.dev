@@ -1,0 +1,78 @@
+@charset "utf-8";
+/* CSS Document */
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html {
+	font-family: "Helvetica", "Arial", "Sans-Sarif";
+	background: #212121;
+}
+
+.right-bar {
+	right: 0;
+	height: 100%;
+	background: #98FB98;
+	width: 20%;
+	float: right !important;
+	position: fixed;
+}
+
+.content {
+	position: relative;
+	margin-right: 20%;
+	text-align: right;
+	color: white;
+	padding: 3em
+}
+
+.info {
+	padding-bottom: 3em;
+}
+
+h1.name {
+	/* font-variant: small-caps; */
+	color: #98FB98;
+	font-size: 4em;
+	padding: 0;
+}
+
+h2 {
+	color: inherit;
+}
+
+p.li {
+	color: inherit;
+	font-size: 2em;
+	padding-bottom: 1em;
+}
+
+p.resume {
+	font-size: 2em;
+	padding-bottom: 1em;
+	transition: all .2s ease-in-out;
+}
+
+a {
+	text-decoration: none;
+	color: #98FB98;
+}
+
+p.resume:hover {
+	scale: 120;
+	transform: scale(1.03);
+}
+
+.list {
+	width: 50%;
+}
+
+div.project {
+	padding-bottom: 3em;
+}
+
+footer {
+	color: grey;
+	font-size: .75em;
+}
