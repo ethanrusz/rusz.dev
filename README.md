@@ -1,4 +1,4 @@
-# resume-site
+# rusz.dev
 ----
 
 A simple website to share my contact info with others.
