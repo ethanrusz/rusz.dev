@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    flex-direction: row-reverse;
+    padding-bottom: 3em;
+}
+
+.box {
+    padding: 3em;
+    background-color: #98FB98;
+    margin: auto;
+    transition: all .2s ease-in-out;
+}
+
+.box:hover {
+    scale: 120;
+	transform: scale(1.3);
+}
