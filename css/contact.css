@@ -13,5 +13,15 @@
 
 .box:hover {
     scale: 120;
-	transform: scale(1.3);
+	transform: scale(1.2);
+}
+
+@media only screen and (max-width: 400px) {
+   /* may be removed later */
+}
+
+@media only screen and (max-width: 600px) {
+    .box {
+        padding: 2em;
+    }
 }
