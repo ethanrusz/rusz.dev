@@ -56,11 +56,6 @@ p.resume {
 	transition: all .2s ease-in-out;
 }
 
-a {
-	text-decoration: none;
-	color: #98FB98;
-}
-
 p.resume:hover {
 	scale: 120;
 	transform: scale(1.03);
@@ -79,6 +74,10 @@ footer {
 	font-size: .75em;
 }
 
+.project > h2 {
+	padding-bottom: .25em;
+}
+  
 .project {
 	visibility: hidden;
 }
@@ -88,12 +87,12 @@ footer {
     .right-bar {
         width: 10%;
     }
-    
+
     .content {
         margin-right: 10%;
         padding-right: 2em;
     }
-    
+
     h1.name {
         font-size: 3em;
     }

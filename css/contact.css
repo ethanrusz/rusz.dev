@@ -1,18 +1,19 @@
 .container {
     display: flex;
-    flex-direction: row-reverse;
-    padding-bottom: 3em;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
 }
 
 .box {
     padding: 3em;
     background-color: #98FB98;
-    margin: auto;
     transition: all .2s ease-in-out;
+    margin-bottom: 3em;
 }
 
 .box:hover {
-    scale: 120;
+  scale: 120;
 	transform: scale(1.2);
 }
 
@@ -23,5 +24,6 @@
 @media only screen and (max-width: 600px) {
     .box {
         padding: 2em;
+        margin-bottom: 2em;
     }
 }
