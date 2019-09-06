@@ -79,6 +79,10 @@ footer {
 	font-size: .75em;
 }
 
+.project {
+	visibility: hidden;
+}
+
 /* adapt site for mobile view */
 @media only screen and (max-width: 600px) {
     .right-bar {
