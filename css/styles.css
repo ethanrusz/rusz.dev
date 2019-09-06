@@ -77,6 +77,10 @@ footer {
 .project > h2 {
 	padding-bottom: .25em;
 }
+  
+.project {
+	visibility: hidden;
+}
 
 /* adapt site for mobile view */
 @media only screen and (max-width: 600px) {
