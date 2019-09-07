@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Visit the live site [here](rusz.dev). :purple_heart:
 
+## [0.2.1] - 2019-09-07
+### Changed
+- Fixed a formatting error in [0.2.0] `CHANGELOG.md`.
+
 ## [0.2.0] - 2019-09-07
 ### Added
 - GitHub PNG and SVG icon.
@@ -15,7 +19,7 @@ Visit the live site [here](rusz.dev). :purple_heart:
 ### Changed
 - Padding and margin too adapt for new icons.
 
-## Removed
+### Removed
 - Extra favicon lurking in `assets/media/`.
 - Placeholder file `resume.txt`.
 
