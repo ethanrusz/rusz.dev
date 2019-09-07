@@ -6,7 +6,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Visit the live site [here](rusz.dev). :purple_heart:
 
-## [unreleased]
+## [0.2.0] - 2019-09-07
+### Added
+- GitHub PNG and SVG icon.
+- Linked PNG and SVG icon.
+- Widescreen support for icons.
+
+### Changed
+- Padding and margin too adapt for new icons.
+
+## Removed
+- Extra favicon lurking in `assets/media/`.
+- Placeholder file `resume.txt`.
 
 ## [0.1.0] - 2019-09-06
 ### Added
@@ -14,12 +25,12 @@ Visit the live site [here](rusz.dev). :purple_heart:
 - Link to GitHub.
 - Link to Linked In.
 
-### Security
-- Changed resume placeholder link to `"#"`.
-
 ### Removed
 - Hide projects from `styles.css`.
 - Placeholder link for Handshake.
+
+### Security
+- Changed resume placeholder link to `"#"`.
 
 ## [0.0.0] - 2019-09-06
 ### Added
