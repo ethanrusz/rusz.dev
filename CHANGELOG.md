@@ -6,14 +6,29 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Visit the live site [here](rusz.dev). :purple_heart:
 
-## [0.2.1] - 2019-09-07
+## [0.2.2] - 2019-09-07
+### Added
+- Email SVG icon.
+- CV SVG icon.
+
 ### Changed
-- Fixed a formatting error in [0.2.0] `CHANGELOG.md`.
+- All references of _resume_ to _CV_.
+- Icon for linked in.
+- Icon for `mailto:` link.
+
+### Removed
+- GitHub PNG icon.
+- Linked in PNG icon.
+
+
+## [0.2.1] - 2019-09-07
+### Fixed
+- Formatting error in [0.2.0] `CHANGELOG.md`.
 
 ## [0.2.0] - 2019-09-07
 ### Added
 - GitHub PNG and SVG icon.
-- Linked PNG and SVG icon.
+- Linked in PNG and SVG icon.
 - Widescreen support for icons.
 
 ### Changed
