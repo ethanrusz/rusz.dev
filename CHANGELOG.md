@@ -6,6 +6,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Visit the live site [here](rusz.dev). :purple_heart:
 
+## [0.2.3] - 2019-09-08
+### Added
+- Credit for social media icons.
+- Document `EthanRuszanowskiCV.pdf`.
+- Option to hide projects section.
+
+### Changed
+- Updated link for CV.
+
 ## [0.2.2] - 2019-09-07
 ### Added
 - Email SVG icon.
