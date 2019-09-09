@@ -6,7 +6,7 @@
 }
 
 .box {
-    padding: 3em;
+    padding: 1.5em;
     background-color: #98FB98;
     transition: all .2s ease-in-out;
     margin-bottom: 3em;
@@ -17,13 +17,37 @@
 	transform: scale(1.2);
 }
 
+.icon {
+  width: 3.5em;
+  padding: 0em;
+  margin: 0em;
+}
+
 @media only screen and (max-width: 400px) {
-   /* may be removed later */
+  .box {
+      padding: .5em;
+      margin-bottom: 2em;
+  }
+
+  .icon {
+    width: 3em;
+  }
 }
 
 @media only screen and (max-width: 600px) {
     .box {
         padding: 2em;
         margin-bottom: 2em;
+    }
+}
+
+/* wide screen mode */
+@media only screen and (min-width: 1000px) {
+    .container {
+      justify-content: flex-end;
+    }
+
+    .box {
+      margin-left: 2em;
     }
 }

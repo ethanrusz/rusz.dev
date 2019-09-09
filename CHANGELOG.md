@@ -1,0 +1,84 @@
+# Changelog
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+Visit the live site [here](rusz.dev). :purple_heart:
+
+## [0.2.3] - 2019-09-08
+### Added
+- Credit for social media icons.
+- Document `EthanRuszanowskiCV.pdf`.
+- Option to hide projects section.
+
+### Changed
+- Updated link for CV.
+
+## [0.2.2] - 2019-09-07
+### Added
+- Email SVG icon.
+- CV SVG icon.
+
+### Changed
+- All references of _resume_ to _CV_.
+- Icon for linked in.
+- Icon for `mailto:` link.
+
+### Removed
+- GitHub PNG icon.
+- Linked in PNG icon.
+
+
+## [0.2.1] - 2019-09-07
+### Fixed
+- Formatting error in [0.2.0] `CHANGELOG.md`.
+
+## [0.2.0] - 2019-09-07
+### Added
+- GitHub PNG and SVG icon.
+- Linked in PNG and SVG icon.
+- Widescreen support for icons.
+
+### Changed
+- Padding and margin too adapt for new icons.
+
+### Removed
+- Extra favicon lurking in `assets/media/`.
+- Placeholder file `resume.txt`.
+
+## [0.1.0] - 2019-09-06
+### Added
+- Link using `mailto:`.
+- Link to GitHub.
+- Link to Linked In.
+
+### Removed
+- Hide projects from `styles.css`.
+- Placeholder link for Handshake.
+
+### Security
+- Changed resume placeholder link to `"#"`.
+
+## [0.0.0] - 2019-09-06
+### Added
+- This changelog!
+
+## [systematic version] - yyyy-mm-dd
+### Added
+- Feature
+
+### Changed
+- Feature
+
+### Deprecated
+- Feature
+
+### Removed
+- Feature
+
+### Fixed
+- Feature
+
+### Security
+- Feature

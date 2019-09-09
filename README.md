@@ -1,7 +1,7 @@
 # rusz.dev
-----
+ A simple website to share my contact info with others.
 
-A simple website to share my contact info with others.
+## See CHANGELOG.md for updates.
 
 ## Objectives
 - Show material design

@@ -77,9 +77,9 @@ footer {
 .project > h2 {
 	padding-bottom: .25em;
 }
-  
+
 .project {
-	visibility: hidden;
+	visibility: visible;
 }
 
 /* adapt site for mobile view */
