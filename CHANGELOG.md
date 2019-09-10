@@ -5,6 +5,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 Visit the live site [here](rusz.dev). :purple_heart:
+## [0.3.1] - 2019-09-10
+### Changed
+- Updated project names and descriptions to proofread versions.
+
+## [0.3.0] - 2019-09-10
+### Added
+- Tentative project names and descriptions.
 
 ## [0.2.3] - 2019-09-08
 ### Added
