@@ -76,10 +76,16 @@ footer {
 
 .project > h2 {
 	padding-bottom: .25em;
+	text-align: right;
 }
 
 .project {
 	visibility: visible;
+}
+
+.projectcon {
+	flex-direction: column;
+	text-align: justify;
 }
 
 /* adapt site for mobile view */
