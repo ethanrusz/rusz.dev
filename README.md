@@ -1,10 +1,9 @@
 # rusz.dev
- A simple website to share my contact info with others.
+ A simple website to share my contact information with others.
 
-## See CHANGELOG.md for updates.
+## Updates
+- Check out this [Glo Board](https://app.gitkraken.com/glo/board/XgPXWpEl1AAQfwHL) for issue tracking and future enhancements.
+- See `CHANGELOG.md` for previous revisions.
 
-## Objectives
-- Show material design
-- HTML and CSS capabilities
-- Integrate JS over time
-- Forward to social media
+### Website preview
+![Preview image](assets/media/site.jpg)
