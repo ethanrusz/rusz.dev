@@ -1,3 +1,18 @@
+/* -----------------------------------------------
+/* How to use? : Check the GitHub README
+/* ----------------------------------------------- */
+
+/* To load a config file (particles.json) you need to host this demo (MAMP/WAMP/local)... */
+/*
+particlesJS.load('particles-js', 'particles.json', function() {
+  console.log('particles.js loaded - callback');
+});
+*/
+
+/* Otherwise just put the config content (json): */
+
+particlesJS('particles-js',
+
 {
   "particles": {
     "number": {
@@ -8,7 +23,7 @@
       }
     },
     "color": {
-      "value": "#ffffff"
+      "value": "#212121"
     },
     "shape": {
       "type": "circle",
@@ -36,7 +51,7 @@
       }
     },
     "size": {
-      "value": 3,
+      "value": 4,
       "random": true,
       "anim": {
         "enable": false,
@@ -48,7 +63,7 @@
     "line_linked": {
       "enable": true,
       "distance": 150,
-      "color": "#ffffff",
+      "color": "#212121",
       "opacity": 0.4,
       "width": 1
     },
@@ -108,3 +123,5 @@
   },
   "retina_detect": true
 }
+
+);
