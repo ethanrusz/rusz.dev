@@ -4,10 +4,20 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+Future features and issue triage can be viewed on the project [Glo Board](https://app.gitkraken.com/glo/board/XgPXWpEl1AAQfwHL).
+
 Visit the live site [here](rusz.dev). :purple_heart:
+## [0.5.3] - 2020-90-9-02
+### Added
+- The copyright date will now automatically update.
+- Glo Board link to `CHANGELOG.md`.
+
+### Fixed
+- Uncaught reference in `index.html`.
+
 ## [0.5.2] - 2019-12-31
 ### Fixed
-- Added `alt` tags to the image icons.
+- Alternate tags for image icons.
 
 ## [0.5.1] - 2019-12-31
 ### Fixed
