@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Future features and issue triage can be viewed on this project's [Glo Board](https://app.gitkraken.com/glo/board/XgPXWpEl1AAQfwHL).
 
-Visit the live site [here](rusz.dev). :purple_heart:
+Visit the live site [here](https://rusz.dev). :purple_heart:
 ## [0.6.1] - 2020-01-04
 ### Fixed
 - The rusz.dev `iframe` now displays on desktop. 
