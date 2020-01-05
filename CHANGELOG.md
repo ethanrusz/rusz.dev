@@ -4,10 +4,18 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-Future features and issue triage can be viewed on the project [Glo Board](https://app.gitkraken.com/glo/board/XgPXWpEl1AAQfwHL).
+Future features and issue triage can be viewed on this project's [Glo Board](https://app.gitkraken.com/glo/board/XgPXWpEl1AAQfwHL).
 
 Visit the live site [here](rusz.dev). :purple_heart:
-## [0.5.3] - 2020-90-9-02
+## [0.6.0] - 2020-01-04
+## Added
+- Images of the featured projects.
+- Interactive display of rusz.dev.
+
+## Fixed
+- A typo in the experience section.
+
+## [0.5.3] - 2020-01-02
 ### Added
 - The copyright date will now automatically update.
 - Glo Board link to `CHANGELOG.md`.

@@ -33,6 +33,21 @@ html {
 	padding-bottom: 3em;
 }
 
+.site {
+	position: relative;
+	padding-top: 1em;
+}
+
+.site > img {
+	width: 25em;
+}
+
+iframe {
+	border: none;
+	height: 18em;
+	width: 25em;
+}
+
 h1.name {
 	/* font-variant: small-caps; */
 	color: #98FB98;
@@ -84,7 +99,7 @@ footer {
 }
 
 .projectcon {
-	flex-direction: column;
+	flex-direction: row;
 	text-align: justify;
 }
 
@@ -102,6 +117,10 @@ footer {
     h1.name {
         font-size: 3em;
     }
+
+		.site {
+			display: none;
+		}
 }
 
 /* itty bitty mobile */
