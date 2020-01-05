@@ -7,9 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 Future features and issue triage can be viewed on this project's [Glo Board](https://app.gitkraken.com/glo/board/XgPXWpEl1AAQfwHL).
 
 Visit the live site [here](rusz.dev). :purple_heart:
-## [unreleased] - 2020-01-04
+## [0.6.0] - 2020-01-04
 ## Added
-- Images of the featured projects
+- Images of the featured projects.
+- Interactive display of rusz.dev.
 
 ## Fixed
 - A typo in the experience section.
