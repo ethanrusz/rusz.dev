@@ -72,7 +72,6 @@ p.resume {
 }
 
 p.resume:hover {
-	scale: 120;
 	transform: scale(1.03);
 }
 
