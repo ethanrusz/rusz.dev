@@ -13,9 +13,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 Future features and issue triage can be viewed on this project's [Glo Board](https://app.gitkraken.com/glo/board/XgPXWpEl1AAQfwHL).
 
 Visit the live site [here](https://rusz.dev). :purple_heart:
+## [0.6.2] - 2020-01-13
+### Added
+- Tooltips now appear while hovering links.
+
+### Fixed
+- Anchor tags that supersized on Firefox Desktop.
+(Props to @kcarri for finding this, as well as her fantastic bug report.)
+
 ## [0.6.1] - 2020-01-04
 ### Fixed
-- The rusz.dev `iframe` now displays on desktop. 
+- The rusz.dev `iframe` now displays on desktop.
 
 ## [0.6.0] - 2020-01-04
 ### Added
